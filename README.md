@@ -3,10 +3,10 @@
 The AI Spend Audit is a free, instant diagnostic tool designed for startup founders and engineering managers to identify wasted spend on AI infrastructure. It analyzes a company's subscriptions (Cursor, Claude, ChatGPT, Copilot, etc.) against current pricing data to surface downgrade opportunities, eliminate redundant licenses, and provide a personalized savings report.
 
 ## Screenshots
-![Input Form](/1.png)
-![Filled Form](/2.png)
-![Results Top](/3.png)
-![Results Bottom](/4.png)
+![Input Form](public/1.png)
+![Filled Form](public/2.png)
+![Results Top](public/3.png)
+![Results Bottom](public/4.png)
 
 ## Live URL
 **[https://ai-spend-audit-zeta.vercel.app](https://ai-spend-audit-zeta.vercel.app)**
